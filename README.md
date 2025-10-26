@@ -1,8 +1,8 @@
-# Ghost Tower - 3D  Stack Building Game
+# Ghost Tower 
 
 ## What is Ghost Tower?
 
-Ghost Tower is an addictive 3D isometric stacking game where players build the tallest tower possible by precisely timing the placement of moving blocks. Each block moves in diagonal patterns across the screen, and players must click at the perfect moment to stack blocks accurately. The game features a stunning gradient color system that cycles through a rainbow spectrum, creating a mesmerizing visual experience as your tower grows higher and higher.
+Ghost Tower is game where players build the tallest tower possible by precisely timing the placement of moving blocks. Each block moves in diagonal patterns across the screen, and players must click at the perfect moment to stack blocks accurately. The game features a stunning gradient color system that cycles through a rainbow spectrum, creating a mesmerizing visual experience as your tower grows higher and higher.
 
 ## What Makes This Game Innovative?
 
