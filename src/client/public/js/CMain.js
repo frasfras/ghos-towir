@@ -1,4 +1,4 @@
-function GTMain(oData) {
+function CMain(oData) {
     var _bUpdate;
     var _iCurResource = 0;
     var RESOURCE_TO_LOAD = 0;

@@ -1,4 +1,4 @@
-# Ghost Tower - 3D Isometric Stack Building Game
+# Ghost Tower - 3D  Stack Building Game
 
 ## What is Ghost Tower?
 
@@ -9,7 +9,7 @@ Ghost Tower is an addictive 3D isometric stacking game where players build the t
 - **3D Isometric Perspective**: Unlike traditional 2D stacking games, Ghost Tower uses a sophisticated 3D isometric view with realistic depth, shadows, and perspective that creates an immersive building experience
 - **Dynamic Rainbow Gradients**: Each new block features a different color from a 100-color gradient spectrum, cycling through vibrant reds, oranges, yellows, greens, blues, and purples to create a stunning rainbow tower effect
 - **Perfect Timing Rewards**: Landing blocks with pixel-perfect accuracy (within 1 pixel tolerance) triggers special visual effects, color animations, and "PERFECT" text celebrations
-- **Intelligent Block Cutting**: Misaligned blocks are automatically trimmed using advanced edge detection algorithms, with excess pieces falling away with realistic physics and rotation
+- **Intelligent Block Cutting**: Misaligned blocks are automatically trimmed , with excess pieces falling away with realistic physics and rotation
 - **Adaptive Camera System**: As your tower grows taller, the camera automatically zooms out and the container moves to keep your tower in view, increasing the visual challenge
 - **Alternating Movement Patterns**: Blocks move in four different diagonal directions (left-up, right-down, left-down, right-up) that alternate with each placement, keeping gameplay fresh and challenging
 - **Cross-Platform Controls**: Supports both mouse clicks and spacebar for accessibility across desktop and mobile devices
