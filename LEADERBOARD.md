@@ -5,7 +5,7 @@ description: Add professional LEADERBOARD to HTML websites with
 version: 1.0.0
 ---
 
-# Dark Mode Toggle Skill
+# Leaderboard Skill
 
 ## Overview
 This Skill provides a standardized implementation for creating dynamic leaderboards in web applications. Use this when users request ranking systems, score tracking.
