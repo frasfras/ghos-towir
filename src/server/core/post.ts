@@ -5,7 +5,7 @@ export const createPost = async () => {
   if (!subredditName) {
     throw new Error("subredditName is required");
   }
-
+  
   const today = new Date().toISOString().slice(0, 10); // e.g., "2024-06-07"
   
   return await reddit.submitCustomPost({
