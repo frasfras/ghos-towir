@@ -43,7 +43,7 @@ Ghost Tower is game where players build the tallest tower possible by precisely 
   - "PERFECT" text animation
   - Enhanced visual effects
   - Perfect sound effect
-- **Best Score Tracking**: Your highest score is automatically saved to local storage and displayed
+- **Best Score Tracking**: Your highest score is automatically saved to Redis and displayed
 - **Game Over Condition**: The game ends when a moving block completely misses the tower below it
 
 ### Advanced Strategies
